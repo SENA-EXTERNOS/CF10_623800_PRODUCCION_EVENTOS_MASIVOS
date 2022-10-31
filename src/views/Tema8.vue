@@ -34,7 +34,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/40.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p #[b El análisis de datos o Big Data es muy aplicado en los análisis cualitativos], es decir se realiza el análisis de datos numéricos los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística, es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En este análisis, se nos presentan los datos. No podemos diseñar un experimento que cumpla con nuestro modelo estadístico favorito. 
+            p #[b El análisis de datos o #[i Big Data] es muy aplicado en los análisis cualitativos], es decir se realiza el análisis de datos numéricos los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística, es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En este análisis, se nos presentan los datos. No podemos diseñar un experimento que cumpla con nuestro modelo estadístico favorito. 
 
             p En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo, normalmente el 80 % del esfuerzo solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de aprendizaje automático. 
           .col-lg-4
@@ -46,7 +46,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/42.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p #[b No hay una metodología única a seguir en las aplicaciones reales a gran escala]. Normalmente, una vez definido el problema de negocio, se necesita una etapa de investigación para diseñar la metodología a utilizar. Sin embargo, es relevante mencionar unas pautas generales que se aplican a casi todos los problemas. Una de las tareas más importantes en el análisis de Big Data es el modelado estadístico, es decir, los problemas de clasificación o regresión supervisados y no supervisados. 
+            p #[b No hay una metodología única a seguir en las aplicaciones reales a gran escala]. Normalmente, una vez definido el problema de negocio, se necesita una etapa de investigación para diseñar la metodología a utilizar. Sin embargo, es relevante mencionar unas pautas generales que se aplican a casi todos los problemas. Una de las tareas más importantes en el análisis de #[i Big Data] es el modelado estadístico, es decir, los problemas de clasificación o regresión supervisados y no supervisados. 
 
             p Una vez que los datos se han limpiado y pre-procesado, disponibles para el modelado, se debe tener cuidado en la evaluación de diferentes modelos con métricas de pérdida razonables y luego, una vez que el modelo se implementa, se debe informar de la evaluación y los resultados. Un error común en la modelización predictiva es limitarse a implementar el modelo y no medir nunca su rendimiento. 
           .col-lg-4

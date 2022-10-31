@@ -10,7 +10,7 @@
       .col-lg-7         
         .color-fondo-text.bg-color(data-aos="fade-down")
           .color-fondo-text__texto 
-            p Un vendedor, también conocido como proveedor, es una entidad externa que suele contratarse para realizar tareas que una empresa subcontrata. Estos pueden estar constituidos como una empresa con varios empleados o un individuo independiente que hace el trabajo en solitario. Las empresas también pueden optar por contratar a proveedores para delegar tareas importantes en las que su equipo necesita ayuda. El uso de sus servicios o productos puede ayudar a una empresa a ahorrar dinero, ya que los proveedores suelen completar un proyecto y no son empleados asalariados, también pueden ayudar a organizaciones que no pueden seguir el ritmo de la demanda de los clientes y prestar servicios vitales.
+            p #[b Un vendedor, también conocido como proveedor, es una entidad externa que suele contratarse para realizar tareas que una empresa subcontrata]. Estos pueden estar constituidos como una empresa con varios empleados o un individuo independiente que hace el trabajo en solitario. Las empresas también pueden optar por contratar a proveedores para delegar tareas importantes en las que su equipo necesita ayuda. El uso de sus servicios o productos puede ayudar a una empresa a ahorrar dinero, ya que los proveedores suelen completar un proyecto y no son empleados asalariados, también pueden ayudar a organizaciones que no pueden seguir el ritmo de la demanda de los clientes y prestar servicios vitales.
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img2.svg', alt='') 
 
@@ -40,7 +40,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-10
-        p(data-aos="fade-down").mb-0 Los proveedores también pueden realizar tareas como la impresión de folletos para campañas de marketing o la limpieza después de eventos en nombre de una empresa. Las empresas también pueden recurrir a los proveedores para que les proporcionen o instalen ordenadores, compren mobiliario de eventos y pidan suministros de limpieza.
+        p(data-aos="fade-down").mb-0 Los proveedores también pueden realizar tareas como la impresión de folletos para campañas de <i>marketing</i> o la limpieza después de eventos en nombre de una empresa. Las empresas también pueden recurrir a los proveedores para que les proporcionen o instalen ordenadores, compren mobiliario de eventos y pidan suministros de limpieza.
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")

@@ -9,7 +9,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7
-        p(data-aos="fade-down") Elegir el proveedor adecuado implica algo más que navegar a través de una variedad de listas de precios. Su elección depende de muchos factores, incluida la relación calidad-precio, la fiabilidad y la prestación de servicio, entre otros. La forma en que evalúa la importancia de estos diversos factores depende de sus prioridades y estrategia comercial.
+        p(data-aos="fade-down") #[b Elegir el proveedor adecuado implica algo más que navegar a través de una variedad de listas de precios]. Su elección depende de muchos factores, incluida la relación calidad-precio, la fiabilidad y la prestación de servicio, entre otros. La forma en que evalúa la importancia de estos diversos factores depende de sus prioridades y estrategia comercial.
              
         .color-fondo-text1.bg-color(data-aos="fade-down")
           .color-fondo-text1__texto

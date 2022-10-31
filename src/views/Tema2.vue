@@ -15,7 +15,7 @@
                 img(data-aos="zoom-in")(src='@/assets/curso/temas/17.svg', alt='')
             .col-lg-10
               .p-3 
-                p(data-aos="fade-down").mb-0 Según economipedia, una empresa es una organización de personas y recursos encaminada a obtener una ventaja económica mediante el desarrollo de una determinada actividad. Esta unidad de producción puede tener una sola persona y debe esforzarse por obtener ganancias y lograr una serie de objetivos especificados en su composición. 
+                p(data-aos="fade-down").mb-0 Según economipedia, #[b una empresa] es una organización de personas y recursos encaminada a obtener una ventaja económica mediante el desarrollo de una determinada actividad. Esta unidad de producción puede tener una sola persona y debe esforzarse por obtener ganancias y lograr una serie de objetivos especificados en su composición. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8

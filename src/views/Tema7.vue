@@ -9,10 +9,10 @@
     .bloque-texto-b.color-secundario.p-4
       .bloque-texto-b__texto
         i.fas.fa-quote-left.colori
-        p.mb-0 Los indicadores de gestión o Key Performance Indicators en sus siglas en inglés, (KPI), no es una tarea fácil como se podría pensar, debido al hecho de que hay tantas variaciones diferentes de la definición de un KPI disponibles en la literatura escrita sobre este tema. Generalmente, encontramos un enfoque más concreto, más bien operativo, de los diferentes conceptos; los KPI deberían ser herramientas prácticas más que discursivos.  A esto retomamos lo escrito por Kelvin, “lo que no se puede definir no se puede medir, lo que no se puede medir no se pueden mejorar, lo que no se puede mejorar se puede deteriorar”. 
+        p.mb-0 Los indicadores de gestión o #[em Key Performance Indicators] en sus siglas en inglés, (KPI), no es una tarea fácil como se podría pensar, debido al hecho de que hay tantas variaciones diferentes de la definición de un KPI disponibles en la literatura escrita sobre este tema. Generalmente, encontramos un enfoque más concreto, más bien operativo, de los diferentes conceptos; los KPI deberían ser herramientas prácticas más que discursivos.  A esto retomamos lo escrito por Kelvin, “lo que no se puede definir no se puede medir, lo que no se puede medir no se pueden mejorar, lo que no se puede mejorar se puede deteriorar”. 
         br
         .bloque-texto-d__autor 
-          .h5.mb-0 (Gerencie.com, 2021)          
+          .h5.mb-0 (Lord, 2008)          
         i.fas.fa-quote-right.colori
 
     .row.justify-content-center.align-items-center.my-5           
