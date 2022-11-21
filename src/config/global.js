@@ -154,7 +154,7 @@ export default {
         'Bancolombia, clasificación, tipos de sociedades en Colombia <i>s.f.</i>',
       tipo: 'Artículo',
       link:
-        'ww.bancolombia.com/negocios/actualizate/emprendimiento/tipos-de-sociedades-comerciales-en-colombia',
+        'www.bancolombia.com/negocios/actualizate/emprendimiento/tipos-de-sociedades-comerciales-en-colombia',
     },
     {
       tema: '3. Régimen fiscal y tributario de las empresas',
@@ -168,7 +168,7 @@ export default {
       tema: '4. Facturación y cuentas de cobro de productos y servicios',
       referencia: 'DIAN, que es la factura electrónica (2022)',
       tipo: 'Video',
-      link: 'https://www.youtube.com/watch?v=ETS8Jjgqb8k',
+      link: 'https://www.youtube.com/watch?v=kmCPu19LeTQ',
     },
   ],
   glosario: [
