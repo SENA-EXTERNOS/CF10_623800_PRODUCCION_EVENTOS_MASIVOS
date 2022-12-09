@@ -94,10 +94,10 @@
             .col
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
-                  h3.mb-1 PDF - Anexo 5 (Falta en diseño)
+                  h3.mb-1 PDF - Anexo 5
                   p.mb-0 Canales de comunicación y solicitud de propuesta
                 .col-sm-auto
-                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_4_Variable_de_indicadores_para_eventos.pdf')" target="_blank")
+                  a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_5_ Canales_de_comunicacion_y_solicitud_de_propuesta_para_proveedores.pdf')" target="_blank")
                     span Descargar
                     i.fas.fa-file-download 
 
