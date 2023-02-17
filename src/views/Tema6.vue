@@ -31,7 +31,7 @@
         h5 Modelos de evaluación de proveedores
         br
         br
-        p Las evaluaciones de proveedores son responsables de revisar a los proveedores existentes para #[b medir y monitorear su desempeño, con el objetivo de reducir costos, mitigar riesgos e impulsar la mejora]. Una de las mejores maneras de hacer esto es crear un formulario o formato de revisión de recursos. Esta evaluación consiste en una serie de preguntas basadas en criterios como calificaciones, capacidades, consistencia, calidad, etc., para evaluar a los proveedores y garantizar que tengan los mejores proveedores en la industria. Este modelo de evaluación es necesario para monitorear y medir el desempeño de proveedores y empresas para reducir costos, analizar riesgos y mantener la mejora continua en la selección de proveedores. 
+        p Las evaluaciones de proveedores  tienen como objetivo medir y monitorear el desempeño de un posible vendedor, con el objetivo de reducir costos, mitigar riesgos e impulsar la mejora. Una de las mejores maneras de hacer esto es crear un formulario o formato de revisión de recursos. Esta evaluación consiste en una serie de preguntas basadas en criterios como calificaciones, capacidades, consistencia, calidad, etc., para comparar y garantizar  se tome la mejor decisión frente a lo que ofrece la industria. 
 
     .row.justify-content-center.align-items-center    
       .col-lg-10
@@ -43,7 +43,7 @@
               .row.justify-content-between.align-items-center
                 .col.mb-3.mb-sm-0
                   h3.mb-1 PDF - Anexo 3
-                  p.mb-0 Métodos de evaluación de proveedores
+                  p.mb-0 En el siguiente documento se identifican los diferentes métodos de evaluación de proveedores.
                 .col-sm-auto
                   a.boton.color-acento-botones.texto-blanco(:href="obtenerLink('/downloads/Anexo_3_Metodos_de_evaluacion_de_proveedores.pdf')" target="_blank")
                     span Descargar
@@ -63,9 +63,8 @@
                 p(data-aos="fade-down").mb-0 Es un documento que se utiliza en muchos ámbitos, entre ellos el de las telecomunicaciones, donde resulta especialmente útil por la complejidad de los proyectos y la diversidad de propuestas y soluciones que ofrecen los desarrolladores. Una buena RFP facilitará el proceso de selección de proveedores y evitará que las líneas presupuestarias queden fuera de los requisitos del proveedor. 
 
 
-    p(data-aos="fade-down").pt-5 Ahora que sabes qué es una Solicitud de vista o RFP, veamos qué debe contener:
+    p(data-aos="fade-down").pt-5 Ahora que ya se sabe que es una solicitud de vista o RFP, veamos que debe contener:
 
-    h5(data-aos="fade-down").mb-5 Explicación del negocio de la empresa y datos de contacto de la persona que gestionará la operación.
 
     .row.justify-content-center.align-items-start.mb-5
       .col-lg-8
@@ -84,14 +83,14 @@
               p Estos son los puntos que debe respetar el proveedor y los requisitos específicos del cliente.
           .row.justify-content-center(titulo="Tablas de plan de planificación")
             .col-10
-              p Es importante fijar un plazo para el coordinador en función de tu urgencia, aunque debes ser lógico porque los mediadores necesitan tiempo para prepararse. En esta sección, se pueden establecer plazos tentativos para cada etapa del proyecto, como cuándo se recibirán las propuestas, reuniones presenciales y si se puede o no proponer una segunda enmienda.                                                         
+              p Es importante fijar un plazo para el coordinador en función de alguna urgencia, aunque debe ser lógico porque los mediadores necesitan tiempo para prepararse. En esta sección, se pueden establecer plazos tentativos para cada etapa del proyecto, por ejemplo, momento en que se recibirán las propuestas, reuniones presenciales y si se puede o no proponer una segunda enmienda. 
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/34.svg', alt='') 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-          p(data-aos="fade-down").mb-0 Una vez redactado el RFP, es necesario enviarlo a los proveedores. Estas personas serán las encargadas de comunicar tus recomendaciones a la empresa para que puedas comparar y seleccionar el paquete que mejor se adapte a tus necesidades.
+          p(data-aos="fade-down").mb-0 Una vez redactado el RFP, es necesario enviarlo a los proveedores. Estas personas serán las encargadas de comunicar las recomendaciones a la empresa para que se pueda comparar y seleccionar el paquete que mejor se adapte a las necesidades.
 
 
     h5(data-aos="fade-down").mb-5 A continuación, se observa el proceso que se debe tener en cuenta para la evaluación de un proveedor:

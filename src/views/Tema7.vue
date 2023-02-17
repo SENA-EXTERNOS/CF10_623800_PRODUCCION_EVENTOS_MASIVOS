@@ -9,7 +9,7 @@
     .bloque-texto-b.color-secundario.p-4
       .bloque-texto-b__texto
         i.fas.fa-quote-left.colori
-        p.mb-0 Los indicadores de gestión o #[em Key Performance Indicators] en sus siglas en inglés, (KPI), no es una tarea fácil como se podría pensar, debido al hecho de que hay tantas variaciones diferentes de la definición de un KPI disponibles en la literatura escrita sobre este tema. Generalmente, encontramos un enfoque más concreto, más bien operativo, de los diferentes conceptos; los KPI deberían ser herramientas prácticas más que discursivos.  A esto retomamos lo escrito por Kelvin, “lo que no se puede definir no se puede medir, lo que no se puede medir no se pueden mejorar, lo que no se puede mejorar se puede deteriorar”. 
+        p.mb-0 Los indicadores de gestión o <em>Key Performance Indicators</em> en sus siglas en inglés, (KPI), no es una tarea fácil como se podría pensar, debido al hecho de que hay variaciones diferentes de la definición de un KPI disponibles en la literatura escrita. Generalmente, encontramos un enfoque más concreto, operativo, de los diferentes conceptos; los KPI deberían ser herramientas prácticas más que discursivas. 
         br
         .bloque-texto-d__autor 
           .h5.mb-0 (Lord, 2008)          
@@ -23,6 +23,8 @@
 
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/36.svg', alt='') 
+    
+      b #[i “Lo que no se puede definir no se puede medir, lo que no se puede medir no se pueden mejorar, lo que no se puede mejorar se puede deteriorar” (Lord, 2008).]
 
     h5(data-aos="fade-down").mb-5 Se puede reconocer los elementos de un indicador de gestión, de acuerdo con el siguiente esquema
 
@@ -31,9 +33,9 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/37.png', alt='')                         
       .col-lg-7
         LineaTiempoD.color-primario
-          p(numero="1" titulo="Nombre") El nombre que se va a dar al indicador dependiendo la actividad a medir. 
-          p(numero="2" titulo="Objetivo") Con qué objetivo o meta se plantea el indicador. 
-          p(numero="3" titulo="Fórmula") Expresión matemática para calcular los resultados del indicador. 
+          p(numero="1" titulo="Nombre") Sujeto a la actividad a medir. 
+          p(numero="2" titulo="Objetivo") Cual es el objetivo o meta se plantea el indicador.
+          p(numero="3" titulo="Fórmula") Expresión matemática para calcular los resultados del indicador.
           p(numero="4" titulo="Periodicidad") Tiempo establecido para medir el indicador. 
           p(numero="5" titulo="Responsable") Persona encargada de implementar el indicador. 
           p(numero="6" titulo="Área") Área o departamento de la empresa que recibe el indicador. 

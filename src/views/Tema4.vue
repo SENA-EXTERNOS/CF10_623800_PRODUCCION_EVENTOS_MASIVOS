@@ -23,7 +23,7 @@
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7
-        p(data-aos="fade-down").mb-0 Para conocer a fondo información importante sobre la factura electrónica, por favor #[b descargar y estudiar los siguientes documentos:  Anexo 1_ DIAN factura electrónica, y Anexo 2_  Pasos para la facturación electrónica;]  igualmente a visitar la página de la DIAN en el enlace que encuentra en la bibliografía de este componente.                       
+        p(data-aos="fade-down").mb-0 Para conocer a fondo información importante sobre la factura electrónica, se sugiere #[b descargar y estudiar los siguientes documentos:  Anexo 1_ DIAN factura electrónica, y Anexo 2_  Pasos para la facturación electrónica;]  igualmente a visitar la página de la DIAN en el enlace que encuentra en la bibliografía de este componente.                       
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/23.svg', alt='')
 

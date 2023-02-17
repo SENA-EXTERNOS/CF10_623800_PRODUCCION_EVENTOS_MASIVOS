@@ -31,7 +31,7 @@
         p Por lo general, los estados financieros representan el año fiscal que corresponde a un año en la organización. Esto permite a los inversores evaluar si la empresa tiene una estructura solvente y si es rentable invertir en ella.
         br        
         br
-        h5 Componentes de los Estados Financieros
+        h5 Componentes de los estados financieros
         br        
         br
         p.mb-0 Lo primero que se debe saber es que se pueden clasificar en estos: Estado de la situación financiera o Balance General, Estado de Resultados, Estado de Flujo de Caja.
@@ -58,7 +58,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-          h5(data-aos="fade-down").mb-0 El estado de resultados tiene dos componentes principales, los ingresos y los costos y gastos. 
+          h5(data-aos="fade-down").mb-0 El estado de resultados tiene los siguientes componentes principales, los ingresos y los costos y gastos.
 
     h5(data-aos="fade-down").mb-5 A continuación, se describe cada uno de estos:
 

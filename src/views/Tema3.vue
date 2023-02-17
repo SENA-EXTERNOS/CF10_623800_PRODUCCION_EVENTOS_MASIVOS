@@ -11,7 +11,7 @@
       .col-lg-4
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/19.svg', alt='')
       .col-lg-4
-        p(data-aos="fade-down") El régimen fiscal es el conjunto de herramientas que determinan cómo se reparten los ingresos entre el gobierno y las empresas.  Hay una variedad de herramientas fiscales que pueden utilizarse para crear un régimen fiscal que rige la actividad económica de cada empresa.
+        p(data-aos="fade-down") El régimen fiscal es el conjunto de herramientas que determinan cómo se reparten los ingresos entre el Gobierno y las empresas.  Hay una variedad de herramientas fiscales que pueden utilizarse para crear un régimen fiscal que rige la actividad económica de cada empresa.
 
         p(data-aos="fade-down").mb-0 El estatuto tributario es el conjunto de #[b normas que rigen la mayor parte de los aspectos formales y sustantivos de la recaudación tributaria en Colombia], en concordancia con el Decreto 624 de 1989.      
       .col-lg-4

@@ -11,8 +11,8 @@
     
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-7    
-        p(data-aos="fade-down") #[b Bienvenido querido aprendiz]. Las empresas recurren a los proveedores por diversas razones, decidir qué proveedor utilizar para cada servicio puede requerir mucha investigación y consideración.  En este componente de formación analizaremos qué es un proveedor, qué implica la selección de los mismos en el proceso de contratación de servicios para eventos masivos, y se abordarán los conceptos para identificar los requerimientos necesarios de selección y contratación de proveedores, mediante el estudio de los conceptos de empresa, facturación electrónica, estados financieros, evaluación de proveedores, identificación de indicadores de gestión y manejo de bases de datos e implementación de canales de comunicación. 
-        h5(data-aos="fade-down") Para iniciar este proceso lo invitamos a ver el siguiente video y le deseamos éxitos en el desarrollo de este componente formativo.        
+        p(data-aos="fade-down") Bienvenido querido aprendiz. Las empresas necesitan de diferentes agentes naturales o jurídicos para la obtención de sus materias primas, ellos son los llamados proveedores. Decidir qué proveedor utilizar para cada servicio o producto puede requerir mucha investigación y consideración.  En este componente de formación, analizaremos que es un proveedor y que implica la selección de los mismos en el proceso de contratación de servicios para eventos masivos. Además, se abordarán los conceptos para identificar los requerimientos necesarios en el proceso de  selección y contratación de proveedores, tales como empresa, facturación electrónica, estados financieros, evaluación de proveedores, identificación de indicadores de gestión y manejo de bases de datos e implementación de canales de comunicación. Para iniciar este proceso lo invitamos a ver el siguiente video y le deseamos éxitos en el desarrollo de este componente formativo.
+
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img1.svg', alt='')   
 
