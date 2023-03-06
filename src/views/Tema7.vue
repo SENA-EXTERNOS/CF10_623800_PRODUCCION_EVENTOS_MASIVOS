@@ -26,7 +26,7 @@
     
       b #[i “Lo que no se puede definir no se puede medir, lo que no se puede medir no se pueden mejorar, lo que no se puede mejorar se puede deteriorar” (Lord, 2008).]
 
-    h5(data-aos="fade-down").mb-5 Se puede reconocer los elementos de un indicador de gestión, de acuerdo con el siguiente esquema
+    h5(data-aos="fade-down").mb-5 Se puede reconocer los elementos de un indicador de gestión, de acuerdo con el siguiente esquema:
 
     .row.justify-content-center.align-items-start.mb-5           
       .col-lg-5

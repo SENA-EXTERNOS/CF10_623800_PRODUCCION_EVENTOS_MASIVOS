@@ -44,9 +44,9 @@
           
           .row.justify-content-center(titulo="Sociedad en comandita")
             .col-10
-              p La sociedad en comandita es un tipo de sociedad en la que existe un grupo de socios administradores, acompañado de otro grupo de socios que aportan capital sin asumir responsabilidad alguna más allá de sus aportes.
-              p [strong Comanditar es acompañar, es también dar medios a una empresa sin asumir responsabilidades comerciales.] Por ello, los socios colectivos tienen responsabilidad limitada, mientras que los socios administradores, que dirigen y administran la sociedad, tienen responsabilidad solidaria e ilimitada.
-          
+              p #[b La sociedad en comandita] es un tipo de sociedad en la que existe un grupo de socios administradores, acompañado de otro grupo de socios que aportan capital sin asumir responsabilidad alguna más allá de sus aportes.
+              p Comanditar es acompañar, es también dar medios a una empresa sin asumir responsabilidades comerciales. Por ello, los socios colectivos tienen responsabilidad limitada, mientras que los socios administradores, que dirigen y administran la sociedad, tienen responsabilidad solidaria e ilimitada.
+
           .row.justify-content-center(titulo="Sociedades de economía mixta")
             .col-10
               p Las sociedades de economía mixta, las define el código de comercio en el artículo 461 de la siguiente manera, y en su primer inciso señala: «Son de economía mixta las sociedades comerciales que se constituyen con aportes estatales y de capital privado.» Cuando los aportes estatales sean del 90% o más en las sociedades de economía mixta, estas se someterán al régimen de las sociedades comerciales e industriales del Estado.

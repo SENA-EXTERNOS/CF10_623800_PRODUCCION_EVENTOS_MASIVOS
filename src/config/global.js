@@ -146,7 +146,8 @@ export default {
       tema: '1. Registro de proveedores',
       referencia: 'Colombia compra eficiente, (2022, agosto)',
       tipo: 'Manual',
-      link: 'https://www.colombiacompra.gov.co/content/registro-de-proveedores',
+      link:
+        'https://wwww.colombiacompra.gov.co/content/registro-de-proveedores',
     },
     {
       tema: '2. Empresas y tipos de sociedad',
@@ -154,7 +155,7 @@ export default {
         'Bancolombia, clasificación, tipos de sociedades en Colombia <i>s.f.</i>',
       tipo: 'Artículo',
       link:
-        'www.bancolombia.com/negocios/actualizate/emprendimiento/tipos-de-sociedades-comerciales-en-colombia',
+        'https://www.bancolombia.com/negocios/actualizate/emprendimiento/tipos-de-sociedades-comerciales-en-colombia',
     },
     {
       tema: '3. Régimen fiscal y tributario de las empresas',
@@ -234,12 +235,12 @@ export default {
         'Mora, L. A. (2004). Indicadores de gestión logísticos. Ecoe Ediciones.',
     },
     {
-      referencia: 'Real Academia Española (2022). Sociedad.',
-      link: 'https://dle.rae.es/sociedad?m=form.',
-    },
-    {
       referencia: 'Real Academia Española (2022). Balance.',
       link: 'https://dle.rae.es/balance?m=form.',
+    },
+    {
+      referencia: 'Real Academia Española (2022). Sociedad.',
+      link: 'https://dle.rae.es/sociedad?m=form.',
     },
     {
       referencia: 'SIIGO, (2022, agosto 30) ¿Qué son los estados financieros?',

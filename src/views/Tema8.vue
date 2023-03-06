@@ -22,7 +22,7 @@
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p #[b Una gran herramienta que apoya la analítica de datos son los diferentes softwares especializados o herramientas ofimáticas que se encuentran en el mercado]. Los datos que generalmente se procesan en analítica de datos o el #[i Big Data] son semiestructurados o estructurados y tienen diferentes orígenes. 
+            p #[b Una gran herramienta que apoya la analítica de datos son los diferentes #[i software] especializados o herramientas ofimáticas que se encuentran en el mercado]. Los datos que generalmente se procesan en analítica de datos o el #[i Big Data] son semiestructurados o estructurados y tienen diferentes orígenes. 
 
             p Son muy usados en las industrias, pues la información obtenida es la base para tomar decisiones, lo cual puede generar beneficios en el incremento de ingresos, establecer mejoras en los procesos y maximizar campañas publicitarias. Sin embargo, el principal objetivo de la analítica de datos es dar impulso al rendimiento o beneficio empresarial. 
           .col-lg-4
@@ -34,9 +34,8 @@
             img.img-a.img-t(src='@/assets/curso/temas/40.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p #[b El análisis de datos o #[i Big Data] es muy aplicado en los análisis cualitativos], es decir se realiza el análisis de datos numéricos los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística, es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En este análisis, se nos presentan los datos. No podemos diseñar un experimento que cumpla con nuestro modelo estadístico favorito. 
+            p El análisis de datos o Big Data es muy aplicado en los análisis cualitativos, es decir se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística. Es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo, normalmente el 80% del esfuerzo solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de aprendizaje automático.
 
-            p En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo, normalmente el 80 % del esfuerzo solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de aprendizaje automático. 
           .col-lg-4
             img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
@@ -86,7 +85,7 @@
 
     .row.justify-content-center.align-items-center    
       .col-lg-10
-        p(data-aos="fade-down").mb-5 Para conocer los diferentes canales a utilizar para la comunicación con proveedores y la estructura de una solicitud de propuesta o invitación a cotizar, por favor descargue el siguiente documento: Anexo 5: Canales de comunicación y solicitud de propuesta.
+        p(data-aos="fade-down").mb-5 Para conocer los diferentes canales a utilizar para la comunicación con proveedores y la estructura de una solicitud de propuesta o invitación a cotizar,  se sugiere descargar el siguiente documento: #[b Anexo 4: Canales de comunicación y solicitud de propuesta.]
         .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1

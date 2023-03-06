@@ -44,7 +44,8 @@
 
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Tabla 1
-      span Impuestos Nacionales
+      br
+      span #[i Impuestos Nacionales]
 
     .tabla-a.color-acento-botones.mb-5 
       table.table1
@@ -86,6 +87,7 @@
 
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Tabla 2
+      br
       span Impuestos Distritales
 
     .tabla-a.color-acento-botones.mb-5 

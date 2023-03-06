@@ -9,8 +9,8 @@
           figure
             img(src="@/assets/template/falso-verdadero.svg", alt="Texto que describa la imagen")
       .col-12.col-md-8.col-lg-9
-        .titulo-segundo
-          h2 Falso / verdadero
+        .titulo-segundo.color-acento-contenido
+          h2 Lineamientos contratación de proveedores
         p.mb-4 A continuación, desarrolla la actividad didáctica de “Falso o Verdadero” para afianzar los conceptos y aprendizajes del componente de formación. 
         .tarjeta.actividad.p-3
           .row.justify-content-around.align-items-center            

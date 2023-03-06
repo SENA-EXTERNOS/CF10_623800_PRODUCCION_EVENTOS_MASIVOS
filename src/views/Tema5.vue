@@ -34,9 +34,11 @@
         h5 Componentes de los estados financieros
         br        
         br
-        p.mb-0 Lo primero que se debe saber es que se pueden clasificar en estos: Estado de la situación financiera o Balance General, Estado de Resultados, Estado de Flujo de Caja.
+        p.mb-0 Lo primero que se debe saber es que se pueden clasificar en estos: estado de la situación financiera o balance general, estado de resultados y estado de flujo de caja.
 
-    h4(data-aos="fade-down").mb-5 Veamos qué incluye cada uno de ellos.
+
+    .row.my-5
+      h4(data-aos="fade-down").mb-5 Veamos qué incluye cada uno de ellos.
 
     img.img-a.img-t.mb-5(data-aos="zoom-in")(src='@/assets/curso/temas/28.svg', alt='') 
 
@@ -45,7 +47,7 @@
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/29.svg', alt='')                         
       .col-lg-8
         AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta bg6")
-          .row.justify-content-center(titulo="Estado de la situación financiera o Balance General")
+          .row.justify-content-center(titulo="Estado de la situación financiera o balance general")
             .col-10
               p #[b Documento contable con la finalidad de informar sobre el estado de la empresa.] Incluye sus ingresos y obligaciones, así como sus reservas y capital, que se evalúan de acuerdo con las normas de contabilidad generalmente aceptadas.    
           .row.justify-content-center(titulo="Estado de flujo de caja")
@@ -58,7 +60,7 @@
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
-          h5(data-aos="fade-down").mb-0 El estado de resultados tiene los siguientes componentes principales, los ingresos y los costos y gastos.
+          h5(data-aos="fade-down").mb-0 El estado de resultados tiene  los siguientes componentes principales, los ingresos, los costos y gastos.
 
     h5(data-aos="fade-down").mb-5 A continuación, se describe cada uno de estos:
 
@@ -70,9 +72,9 @@
             p Ingreso es el aumento de los activos o la disminución de los pasivos de una entidad que, durante el ejercicio contable, tiene un efecto positivo en los resultados o, en su caso, en la variación neta del patrimonio contable y, en consecuencia, el correspondiente al capital adquirido o al patrimonio suscrito. Los ingresos deben reconocerse solo cuando el movimiento de activos y pasivos tiene un efecto positivo en los resultados o el capital contable de la entidad, a través de resultados o, según corresponda, un cambio neto en el patrimonio neto, respectivamente.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Costos y Gastos")
             h4 Costos y Gastos
-            p Costo y gasto es la reducción en los activos o el aumento en los pasivos de una entidad, durante el período contable, con el propósito de generar ingresos y con el propósito de causar un efecto negativo en la utilidad o pérdida, o, según sea el caso ser, por la variación neta en el patrimonio contable, y, por tanto, en el capital adquirido o el Capital contable, respectivamente. #[b Los costos y gastos representan los esfuerzos de la gestión económica para lograr el rendimiento y generar ingresos], y además deben reconocerse solo cuando se mueven los activos y pasivos.
+            p Costo y gasto, es la reducción en los activos o el aumento en los pasivos de una entidad, durante el período contable, con el propósito de generar ingresos y de causar un efecto negativo en la utilidad o pérdida, o, según sea el caso ser, por la variación neta en el patrimonio contable, y, por tanto, en el capital adquirido o el capital contable, respectivamente. 
+            p Los costos y gastos representan los esfuerzos de la gestión económica para lograr el rendimiento y generar ingresos, y además, deben reconocerse sólo cuando se mueven los activos y pasivos. Afectar negativamente el capital adquirido o el patrimonio de la entidad sociedad, a través de la utilidad neta o, en su caso, la variación neta del patrimonio contable, respectivamente. Para efectos de información financiera, los costos deben entenderse como el valor de los recursos que han sido entregados o prometidos a ser entregados a cambio de bienes o servicios adquiridos por la entidad con el propósito de generar ingresos.
 
-            p Afectar negativamente el capital adquirido o el patrimonio de la entidad sociedad, a través de la utilidad neta o, en su caso, la variación neta del patrimonio contable, respectivamente. Para efectos de información financiera, los costos deben entenderse como el valor de los recursos que han sido entregados o prometidos a ser entregados a cambio de bienes o servicios adquiridos por la entidad con el propósito de generar ingresos. 
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/30.svg', alt='')                
 </template>

@@ -25,16 +25,16 @@
             p El fabricante distribuye estos productos a los minoristas, como las farmacias y las droguerías. Los minoristas venden entonces los medicamentos a los consumidores, que son los usuarios finales. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Vendedor mayorista")
             h4 Vendedor mayorista 
-            p Un mayorista especializado en el sector de la alimentación vende a los minoristas productos de panadería, bollería y pastelería. La empresa adquiere los productos alimentarios de varios fabricantes de alimentos. A continuación, vende los diferentes tipos de alimentos a un minorista en grandes cantidades a precios más bajos. 
+            p Un mayorista, es la empresa que adquiere los productos de varios fabricantes y los vende a  minoristas en grandes cantidades a precios más bajos. Así por ejemplo, dicho mayorista especializado en el sector de la alimentación, vende a los minoristas productos de panadería, bollería y pastelería, para que este los revenda directamente a panaderias y pastelerias.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Vendedor minorista")
             h4 Vendedor minorista 
-            p Una gran cadena de tiendas de descuento vende alimentos, ropa, decoración del hogar y otros bienes personales directamente a los consumidores. La cadena almacena su inventario comprando artículos a granel a fabricantes y mayoristas. Vende estos artículos a los clientes a través de sus tiendas presenciales y sus tiendas en línea. 
-          .tarjeta.color-acento-botones--borde.p-4(titulo="Proveedor servicios de mantenimiento")
+            p Una gran cadena de tiendas de descuento vende alimentos, ropa, decoración del hogar y otros bienes personales directamente a los consumidores. La cadena almacena su inventario comprando artículos a granel a fabricantes y mayoristas. Vende estos artículos a los clientes a través de sus tiendas presenciales y en línea.
+          .tarjeta.color-acento-botones--borde.p-4(titulo="Proveedor servicios de <br>mantenimiento")
             h4 Proveedor servicios de mantenimiento 
             p Un proveedor de limpieza ofrece sus servicios a empresas que quieren mantener sus instalaciones. Una empresa de contabilidad contrata al proveedor de limpieza para mantener su oficina limpia para los clientes y los empleados. El proveedor se encarga de limpiar los baños, fregar los suelos y aspirar la oficina para que la empresa pueda seguir con sus tareas diarias.  
           .tarjeta.color-acento-botones--borde.p-4(titulo="Vendedor independiente")
             h4 Vendedor independiente 
-            p Un puesto de mercado de agricultores independiente vende frutas y verduras frescas directamente a los clientes. El puesto vende sus alimentos a muchos propietarios de pequeñas empresas, como restaurantes y panaderías locales. También vende productos a los consumidores individuales que visitan el mercado de agricultores.
+            p Un puesto de mercado de agricultores independientes vende frutas y verduras frescas directamente a los clientes. El puesto vende sus alimentos a muchos propietarios de pequeñas empresas, como restaurantes y panaderías locales. También vende productos a los consumidores individuales que visitan el mercado de agricultores.
       .col-lg-3
         img.img-a.img-t(data-aos="zoom-in")(src='@/assets/curso/temas/img3.svg', alt='')  
 
