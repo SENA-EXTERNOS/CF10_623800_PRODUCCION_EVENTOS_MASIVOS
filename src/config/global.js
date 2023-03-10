@@ -146,8 +146,7 @@ export default {
       tema: '1. Registro de proveedores',
       referencia: 'Colombia compra eficiente, (2022, agosto)',
       tipo: 'Manual',
-      link:
-        'https://wwww.colombiacompra.gov.co/content/registro-de-proveedores',
+      link: 'https://www.colombiacompra.gov.co/content/registro-de-proveedores',
     },
     {
       tema: '2. Empresas y tipos de sociedad',

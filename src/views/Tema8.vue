@@ -34,7 +34,7 @@
             img.img-a.img-t(src='@/assets/curso/temas/40.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p El análisis de datos o Big Data es muy aplicado en los análisis cualitativos, es decir se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística. Es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo, normalmente el 80% del esfuerzo solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de aprendizaje automático.
+            p El análisis de datos o #[i Big Data] es muy aplicado en los análisis cualitativos, es decir se realiza el análisis de datos numéricos, los cuales tienen variables que pueden ser cuantificables, pueden compararse y medirse a través de la estadística. Es de anotar que el análisis cualitativo es de carácter interpretativo, es decir que se hace a través de interpretaciones de los estadísticos, basados en la comprensión que se haga de los datos que no son numéricos. En las aplicaciones de analítica a gran escala, se necesita una gran cantidad de trabajo, normalmente el 80% del esfuerzo solo para limpiar los datos, de modo que puedan ser utilizados por un modelo de aprendizaje automático.
 
           .col-lg-4
             img.img-a.img-t(src='@/assets/curso/temas/41.png', alt='') 
@@ -85,7 +85,7 @@
 
     .row.justify-content-center.align-items-center    
       .col-lg-10
-        p(data-aos="fade-down").mb-5 Para conocer los diferentes canales a utilizar para la comunicación con proveedores y la estructura de una solicitud de propuesta o invitación a cotizar,  se sugiere descargar el siguiente documento: #[b Anexo 4: Canales de comunicación y solicitud de propuesta.]
+        p(data-aos="fade-down").mb-5 Para conocer los diferentes canales a utilizar para la comunicación con proveedores y la estructura de una solicitud de propuesta o invitación a cotizar,  se sugiere descargar el siguiente documento: #[b Anexo 5: Canales de comunicación y solicitud de propuesta.]
         .tarjeta.color-primario.p-3.mb-5(data-aos="flip-down")
           .row.justify-content-around.align-items-center
             .col-3.col-sm-2.col-lg-1
@@ -104,6 +104,8 @@
       .col-lg-8
         .cajon.color-acento-contenido.p-4.mb-4(data-aos="flip-down")
           p(data-aos="fade-down").mb-0 Para un estudio completo del tema, recuerde explorar todos los recursos que se encuentran disponibles en este componente formativo, y que encuentra en el menú principal, tales como material complementario, actividad didáctica, glosario, entre otros.                      
+
+
 </template>
 
 <script>

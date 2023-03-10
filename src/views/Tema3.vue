@@ -88,7 +88,7 @@
     .titulo-sexto.color-acento-contenido.mb-3
       h5 Tabla 2
       br
-      span Impuestos Distritales
+      span #[i Impuestos Distritales]
 
     .tabla-a.color-acento-botones.mb-5 
       table.table1
