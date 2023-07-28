@@ -25,7 +25,7 @@
             p El fabricante distribuye estos productos a los minoristas, como las farmacias y las droguerías. Los minoristas venden entonces los medicamentos a los consumidores, que son los usuarios finales. 
           .tarjeta.color-acento-botones--borde.p-4(titulo="Vendedor mayorista")
             h4 Vendedor mayorista 
-            p Un mayorista, es la empresa que adquiere los productos de varios fabricantes y los vende a  minoristas en grandes cantidades a precios más bajos. Así por ejemplo, dicho mayorista especializado en el sector de la alimentación, vende a los minoristas productos de panadería, bollería y pastelería, para que este los revenda directamente a panaderias y pastelerias.
+            p Un mayorista es la empresa que adquiere los productos de varios fabricantes y los vende a  minoristas en grandes cantidades a precios más bajos. Así, por ejemplo, dicho mayorista especializado en el sector de la alimentación, vende a los minoristas productos de panadería, bollería y pastelería, para que este los revenda directamente a panaderías y pastelerías.
           .tarjeta.color-acento-botones--borde.p-4(titulo="Vendedor minorista")
             h4 Vendedor minorista 
             p Una gran cadena de tiendas de descuento vende alimentos, ropa, decoración del hogar y otros bienes personales directamente a los consumidores. La cadena almacena su inventario comprando artículos a granel a fabricantes y mayoristas. Vende estos artículos a los clientes a través de sus tiendas presenciales y en línea.

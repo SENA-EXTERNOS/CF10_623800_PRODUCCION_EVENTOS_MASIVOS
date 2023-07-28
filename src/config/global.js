@@ -232,6 +232,8 @@ export default {
     {
       referencia:
         'Mora, L. A. (2004). Indicadores de gestión logísticos. Ecoe Ediciones.',
+      link:
+        'https://www.fesc.edu.co/portal/archivos/e_libros/logistica/ind_logistica.pdf',
     },
     {
       referencia: 'Real Academia Española (2022). Balance.',

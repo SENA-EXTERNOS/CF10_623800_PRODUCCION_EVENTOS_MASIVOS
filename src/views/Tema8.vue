@@ -17,7 +17,7 @@
               .p-3  
                 p(data-aos="fade-down").mb-0 Una base de datos se refiere a un conjunto de datos relacionados y a la forma en que están organizados. #[b El acceso a estos datos suele ser proporcionado por un “sistema de gestión de bases de datos” (SGBD)] que consiste en un conjunto integrado de programas informáticos que permite a los usuarios interactuar con una o varias bases de datos y proporciona acceso a todos los datos contenidos en ella (aunque pueden existir restricciones que limiten el acceso a determinados datos). El SGBD ofrece diversas funciones que permiten introducir, almacenar y recuperar grandes cantidades de información y proporciona formas de gestionar cómo se organiza esa información.
 
-    h5(data-aos="fade-down").mb-5 Otros aspectos a tener en cuenta sobre las base de datos:
+    h5(data-aos="fade-down").mb-5 Otros aspectos a tener en cuenta sobre las bases de datos:
     .tarjeta.tarjeta--azul.p-5.mb-5(data-aos="fade-left")
       SlyderA(tipo="b")
         .row.justify-content-center.align-items-start.p-3
