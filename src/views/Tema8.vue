@@ -52,11 +52,11 @@
             img.img-a.img-t(src='@/assets/curso/temas/43.png', alt='') 
         .row.justify-content-center.align-items-start.p-3
           .col-lg-8.mb-4.mb-md-0
-            p #[b El manejo de datos se regula mediante el Derecho de Hábeas Data], el cual se basa en Colombia por autorizar a los habitantes residentes actualizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política. Más adelante, fue desarrollado como derecho autosuficiente y sin dependencia, que disfrutan todos los colombianos.
+            p #[b El manejo de datos se regula mediante el Derecho de #[i Habeas Data]], el cual se basa en Colombia por autorizar a los habitantes residentes actualizar, conocer, y rectificar toda la información que tengan las distintas entidades y bases de datos del territorio nacional. Nació como parte importante de los artículos 15 y 20 de la Constitución Política. Más adelante, fue desarrollado como derecho autosuficiente y sin dependencia, que disfrutan todos los colombianos.
 
-            p Es desde 1995 que ya se comienza a tener esta excepción, no obstante, #[b en el 2008 se crea la primera Ley de Habeas Data], la 1266, la cual tiene un carácter particular que solo aplica para la información financiera. Los bancos usan esta información para evaluar el peligro crediticio de una persona, como hábitos de pago, créditos tomados antes y sueldo o ingresos promedios.
+            p Es desde 1995 que ya se comienza a tener esta excepción, no obstante, #[b en el 2008 se crea la primera Ley de #[i Habeas Data]], la 1266, la cual tiene un carácter particular que solo aplica para la información financiera. Los bancos usan esta información para evaluar el peligro crediticio de una persona, como hábitos de pago, créditos tomados antes y sueldo o ingresos promedios.
 
-            p #[b Por su lado, la ley más vigente del derecho de Habeas Data ha sido emitida en el 2012]. La ley 1581 es de carácter general y se aplica en todos los espacios de recolección de datos de una persona y que, por lo tanto, no son financieros ni crediticios. Son usados por entidades de naturaleza pública o privada. Esta ley resume todo el funcionamiento de la información de una persona.
+            p #[b Por su lado, la ley más vigente del derecho de #[i Habeas Data] ha sido emitida en el 2012]. La ley 1581 es de carácter general y se aplica en todos los espacios de recolección de datos de una persona y que, por lo tanto, no son financieros ni crediticios. Son usados por entidades de naturaleza pública o privada. Esta ley resume todo el funcionamiento de la información de una persona.
  
           .col-lg-4
             img.img-a.img-t(src='@/assets/curso/temas/44.png', alt='')
@@ -70,7 +70,7 @@
         :style="{'background-image': `url(${require('@/assets/curso/temas/45.jpg')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p La Ley 1266 de 2008, también conocida como #[strong Ley de Habeas Data, se aplica a todos los datos personales, financieros, crediticios, comerciales y de servicios registrados en un banco de datos.] En este sentido, la aplicación de la Ley 1266 de 2008 está encaminada a regular el uso de lesa información y, por tanto, otro tipo de datos (por ejemplo, aquellos mantenidos en un ámbito exclusivamente personal o doméstico o los que se incluyen en una historia clínica) se encuentran excluidos de la aplicación de esta norma. 
+        p La Ley 1266 de 2008, también conocida como #[strong Ley de #[i Habeas Data] se aplica a todos los datos personales, financieros, crediticios, comerciales y de servicios registrados en un banco de datos.] En este sentido, la aplicación de la Ley 1266 de 2008 está encaminada a regular el uso de lesa información y, por tanto, otro tipo de datos (por ejemplo, aquellos mantenidos en un ámbito exclusivamente personal o doméstico o los que se incluyen en una historia clínica) se encuentran excluidos de la aplicación de esta norma. 
 
     .row.justify-content-center.align-items-center.mb-5           
       .col-lg-4

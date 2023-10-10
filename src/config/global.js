@@ -143,13 +143,13 @@ export default {
   },
   complementario: [
     {
-      tema: '1. Registro de proveedores',
+      tema: 'Registro de proveedores',
       referencia: 'Colombia compra eficiente, (2022, agosto)',
       tipo: 'Manual',
       link: 'https://www.colombiacompra.gov.co/content/registro-de-proveedores',
     },
     {
-      tema: '2. Empresas y tipos de sociedad',
+      tema: 'Empresas y tipos de sociedad',
       referencia:
         'Bancolombia, clasificación, tipos de sociedades en Colombia <i>s.f.</i>',
       tipo: 'Artículo',
@@ -157,7 +157,7 @@ export default {
         'https://www.bancolombia.com/negocios/actualizate/emprendimiento/tipos-de-sociedades-comerciales-en-colombia',
     },
     {
-      tema: '3. Régimen fiscal y tributario de las empresas',
+      tema: 'Régimen fiscal y tributario de las empresas',
       referencia:
         'INVESTINCOLOMBIA, Guía legal 7 régimen tributario colombiano (Agosto, 2022)',
       tipo: 'Documento',
@@ -165,7 +165,7 @@ export default {
         'https://investincolombia.com.co/es/articulos-y-herramientas/herramientas/guia-legal-7-regimen-tributario-colombiano',
     },
     {
-      tema: '4. Facturación y cuentas de cobro de productos y servicios',
+      tema: 'Facturación y cuentas de cobro de productos y servicios',
       referencia: 'DIAN, que es la factura electrónica (2022)',
       tipo: 'Video',
       link: 'https://www.youtube.com/watch?v=kmCPu19LeTQ',
