@@ -49,7 +49,7 @@
 
     .tabla-a.color-acento-botones.mb-5 
       table.table1
-        caption Referencia: Procolombia (2022). #[i Impuestos en Colombia]. https://investincolombia.com.co/es/como-invertir/impuestos-en-colombia
+        caption Referencia: Procolombia (2022). #[i Impuestos en Colombia]. 
         thead
           tr
             td IMPUESTO
@@ -92,7 +92,7 @@
 
     .tabla-a.color-acento-botones.mb-5 
       table.table1
-        caption Referencia: Procolombia (2022). #[i Impuestos en Colombia]. https://investincolombia.com.co/es/como-invertir/impuestos-en-colombia
+        caption Referencia: Procolombia (2022). #[i Impuestos en Colombia]. 
         thead
           tr
             td IMPUESTO

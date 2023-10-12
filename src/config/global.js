@@ -250,8 +250,7 @@ export default {
     },
     {
       referencia: 'Impuestos en Colombia (2022). <i>Invierta en Colombia</i>.',
-      link:
-        'https://investincolombia.com.co/es/como-invertir/impuestos-en-colombia',
+      link: '',
     },
   ],
   creditos: {
